@@ -1,2 +1,2 @@
-# my_first_projects
+# new_project_1
 Python Basic
