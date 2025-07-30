@@ -1,2 +1,2 @@
-# my-first-projects
-python  basic
+# my_first_projects
+Python Basic
